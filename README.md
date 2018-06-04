@@ -1,1 +1,1 @@
-Bu proje kapsamında link, modem, şifreleme,makine dili ve pixel konusunu ortaokul öğrencileri  düzeyinde hikayeleştirdim ve videoya dönüştürdüm. Bu videoları ağrılıklı olarak html kullanarak hazırladığım web sitesine gömdüm. Web sitesinide github alanıma yükledim.
+Bu proje kapsamında grupça grubumuzun ismini isimlerimizin baş harfleri olan efora'yı seçtik. Daha sonra Github ortamında grubumuzu oluşturduk ve hazırladığımız web terminolojileri ile ilgili dosyaları grup-efora'da paylaştık. 
